@@ -1,0 +1,5 @@
+# External requirements
+numpy>=1.19.1
+opencv-python>=4.4.0
+tensorflow>=1.15
+yaml>=3.13
